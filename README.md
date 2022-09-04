@@ -29,7 +29,7 @@
   <br/>  
 <div align=center><h3>🌍 Blog</h3></div>
   <div align=center> 
-  <a href="[velog.io/@kyckyc0530](https://velog.io/@kyckyc0530)"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"/></a>  
+  <a href="https://velog.io/@kyckyc0530"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@kyckyc0530"/></a>  
   <br/> 
   <br/> 
   <br/>    
