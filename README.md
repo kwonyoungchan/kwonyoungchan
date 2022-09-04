@@ -9,4 +9,4 @@ kwonyoungchan/kwonyoungchan is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
-[![Solved.ac/프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kyckyc053)](https://solved.ac/kyckyc0530)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kyckyc0530)](https://solved.ac/백준아이디)
