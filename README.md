@@ -43,8 +43,13 @@
   <br/>
 <div align=center><h3>🕹️ My projects</h3></div>
   <div align=center> 
-  <a href="https://github.com/kwonyoungchan/MidnightCamp"><img src="https://img.shields.io/badge/MidnightCamp-blueviolet?style=for-the-badge&logo=appveyor"/>
+  <a href="https://github.com/kwonyoungchan/MidnightCamp" ><img src="https://img.shields.io/badge/Github-MidnightCamp-blueviolet?style=for-the-badge&logo=GitHub&logoColor=white&link=https://github.com/kwonyoungchan/MidnightCamp"></a>
   <br>
+    
+
+
+
+
 
 
 
