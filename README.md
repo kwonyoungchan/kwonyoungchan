@@ -41,10 +41,9 @@
   <br/> 
   <br/> 
   <br/>
-    
 <div align=center><h3>🕹️ My projects</h3></div>
   <div align=center> 
-  <a href="mailto:kyckyc0530@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a>  
+  <a href="https://github.com/kwonyoungchan/MidnightCamp"><img src="https://img.shields.io/badge/MidnightCamp-blueviolet?style=for-the-badge&logo=appveyor"/>
   <br>
 
 
