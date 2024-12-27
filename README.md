@@ -2,10 +2,15 @@
 
 
 
+## 👋 소프트웨어 엔지니어 권영찬 입니다. 
+  
+## 🏃‍♂️‍➡️ 코딩 여정 
+- **2017.09 ~ 2017.12**: 스크래치, 파이썬 강좌 수강 (이때부터 코딩이 재밌었음)
+- **2020.01 ~ 2020.08**: 홍정모의 따배씨 강의 들으면서 C++ 공부 (포인터 파트 부분부터 어려워서 중도 포기)
+- **2022.06 ~ 2022.12**: 메타버스 아카데미에서 본격적으로 코딩을 공부
+- **2023.01 ~ 현재**: (주)네비웍스, 시뮬레이터팀에서 근무 중
 
-- 👋 **Hi, I’m @kwonyoungchan**
-- 👀 **I’m interested in physics, engineering and Coding.** 
-- 🌱 **I’m currently learning Unity at metaverse Academy. I'm still growing my coding skill.**  
+
   <br/> 
   <br/> 
   <br/>
@@ -20,8 +25,10 @@
 
 
 <div align=center> 
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.NET&logoColor=white"> 
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"> 
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.NET&logoColor=white">  
   <img src="https://img.shields.io/badge/Unity-181717?style=for-the-badge&logo=Unity&logoColor=white"> 
+  <img src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white">
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <br>
