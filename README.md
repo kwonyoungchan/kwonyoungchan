@@ -5,7 +5,7 @@
 ## 👋 소프트웨어 엔지니어 권영찬 입니다. 
   
 ## 🏃‍♂️‍➡️ 코딩 여정 
-- **2017.09 ~ 2017.12**: 스크래치, 파이썬 강좌 수강 (이때부터 코딩이 재밌었음)
+- **2017.09 ~ 2017.12**: 스크래치, 파이썬 강좌 수강 (이때부터 코딩에 흥미가 생김)
 - **2020.01 ~ 2020.08**: 홍정모의 따배씨 강의 들으면서 C++ 공부 (포인터 파트 부분부터 어려워서 중도 포기)
 - **2022.06 ~ 2022.12**: 메타버스 아카데미에서 본격적으로 코딩을 공부
 - **2023.01 ~ 현재**: (주)네비웍스, 시뮬레이터팀에서 근무 중
@@ -37,6 +37,8 @@
 <div align=center><h3>🌍 Blog</h3></div>
   <div align=center> 
   <a href="https://velog.io/@kyckyc0530"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@kyckyc0530"/></a>  
+  <a href="https://kwonvector.tistory.com"><img src="https://img.shields.io/badge/TiStory-F05032?style=for-the-badge&logo=Tistory&logoColor=white&link=https://kwonvector.tistory.com"/></a>  
+                                             
   <br/> 
   <br/> 
   <br/>    
