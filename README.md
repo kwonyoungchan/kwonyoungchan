@@ -9,7 +9,7 @@
 - **2017.09 ~ 2017.12**: Took courses on Scratch and Python (discovered my interest in coding).  
 - **2020.01 ~ 2020.08**: Studied C++ through "Hong Jeong Mo's C++ Lecture" (struggled with pointers and paused learning).  
 - **2022.06 ~ 2022.12**: Advanced my coding skills at Metaverse Academy.  
-- **2023.01 ~ Present**: Working at **NaviWorks Co., Ltd**, Simulator Team.  
+- **2023.01 ~ Present**: Working at **NaviWorks Co., Ltd.** Simulator Team.  
 
 ---
 
