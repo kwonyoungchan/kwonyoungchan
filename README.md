@@ -1,65 +1,24 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&text=Kwon%20Young%20Chan&fontSize=90)
 
-## 👋 Hello! I'm Kwon Young Chan, a Software Engineer.
+# 👋 Hello! I'm Kwon Young Chan
 
----
+**Software Engineer | Simulation & Network Systems**
 
-### 🏃‍♂️ Programming Journey
+현재 시뮬레이터 개발 팀에서 소프트웨어 엔지니어로 근무하고 있습니다. 
+단순한 구현을 넘어, 복잡한 네트워크 통신(UDP/RTP)과 현실적인 물리 시뮬레이션 환경을 구축하는 데 깊은 관심을 가지고 있습니다. 
 
-- **2017.09 ~ 2017.12**: Took courses on Scratch and Python (discovered my interest in coding).  
-- **2020.01 ~ 2020.08**: Studied C++ through "Hong Jeong Mo's C++ Lecture" (struggled with pointers and paused learning).  
-- **2022.06 ~ 2022.12**: Advanced my coding skills at Metaverse Academy.  
-- **2023.01 ~ Present**: Working at **NaviWorks Co., Ltd.** Simulator Team.  
+### 🛠 Tech Stack
+- **Languages:** C++, C#
+- **Engines & Frameworks:** Unreal Engine, .NET, Winform, MFC
+- **Domain Knowledge:** Network Programming (Socket, UDP, RTP), Flight Simulation (JSBSim)
 
----
+### 🚀 What I'm currently working on
+- Unreal Engine과 JSBSim을 활용한 사실적인 헬리콥터 시뮬레이션 환경 구축
+- C# 기반의 안정적인 UDP 통신 프로토콜 및 실시간 영상 스트리밍(RTP) 어플리케이션 개발
+- 유지보수성과 확장성을 고려한 아키텍처 및 자동화 테스트 환경 설계
 
-### 📊 GitHub Stats
+### 📈 GitHub Stats
+![Kwon Young Chan's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwonyoungchan&show_icons=true&theme=radical)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kwonyoungchan&show_icons=true&theme=radical)
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kyckyc0530)](https://solved.ac/kyckyc0530)
-
----
-
-### 📚 Tech Stack
-
-<div align="center">  
-  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"> 
-  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white">
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.NET&logoColor=white">  
-  <img src="https://img.shields.io/badge/Unity-181717?style=for-the-badge&logo=Unity&logoColor=white"> 
-  <img src="https://img.shields.io/badge/UnrealEngine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white">
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
-  <img src="https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white">
-  <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
-  
-</div>
-
----
-
-### 🌍 Blog
-
-<div align="center">  
-  <a href="https://velog.io/@kyckyc0530"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@kyckyc0530"/></a>  
-  <a href="https://kwonvector.tistory.com"><img src="https://img.shields.io/badge/TiStory-F05032?style=for-the-badge&logo=Tistory&logoColor=white&link=https://kwonvector.tistory.com"/></a>  
-</div>
-
----
-
-### 📧 Contact
-
-<div align="center">  
-  <a href="mailto:kyckyc0530@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a>  
-</div>
-
----
-
-### 🕹️ Projects
-
-<div align="center">  
-  <a href="https://github.com/kwonyoungchan/MidnightCamp"><img src="https://img.shields.io/badge/GitHub-MidnightCamp-blueviolet?style=for-the-badge&logo=GitHub&logoColor=white&link=https://github.com/kwonyoungchan/MidnightCamp"></a>
-  <a href="https://github.com/kwonyoungchan/Korail_Project"><img src="https://img.shields.io/badge/GitHub-Korail_Project-blueviolet?style=for-the-badge&logo=GitHub&logoColor=white&link=https://github.com/kwonyoungchan/Korail_Project"></a>
-  <a href="https://github.com/MTVS-Nebula/nebula-chan-mass"><img src="https://img.shields.io/badge/GitHub-MTVS_Nebula-blueviolet?style=for-the-badge&logo=GitHub&logoColor=white&link=https://github.com/MTVS-Nebula/nebula-chan-mass"></a>
-</div>
+### 📫 How to reach me
+- **Email:** [본인 이메일 주소 입력]
+- **Blog / Portfolio:** [블로그나 포트폴리오 링크가 있다면 입력]
